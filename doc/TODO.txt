@@ -1,0 +1,7 @@
+Learn Matlab & C/C++ interfaces
+
+First add several popular methods in machine learning (Linear regression, Ridge regression, Lasso, SVM) and adjust the structures including coding style and documentation style
+
+Read one or two machine learning books/handouts at the same time
+
+Try and research on existing machine learning libraries
