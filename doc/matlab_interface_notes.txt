@@ -1,0 +1,5 @@
+http://www.mathworks.com/help/matlab/creating-c-c-and-fortran-programs-to-be-callable-from-matlab-mex-files.html
+http://www.mathworks.com/help/matlab/matlab_external/table-of-mex-examples.html
+
+edit([matlabroot '/extern/examples/refbook/timestwo.c']);
+edit([matlabroot '/extern/examples/refbook/matrixDivide.c']);
